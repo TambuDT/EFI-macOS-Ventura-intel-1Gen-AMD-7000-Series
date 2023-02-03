@@ -1,0 +1,1 @@
+# EFI-macOS-Ventura-intel-1Gen-AMD-7000-Series
