@@ -20,7 +20,8 @@ Works with HP Motherboards only
  - And all basic things (USB etc..)
 
 ##  Not tested:
-- AirDrop 
+- AirDrop
+- Airpods integration
 
 ## SMBIOS:
 
